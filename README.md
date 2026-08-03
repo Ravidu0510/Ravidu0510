@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Web+Developer+%7C+Software+Engineer;Computer+Science+Undergraduate;ML%2FAI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 <!-- Profile views -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ravidu0510&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Ravidu0510?label=Followers&style=for-the-badge&color=blue)
 
 </div>
 
@@ -65,21 +65,21 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravidu0510&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ravidu0510&theme=radical&hide_border=true)
 
 </div>
 
 <div align="center">
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ravidu0510&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -88,7 +88,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravidu0510&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 <br>
@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Ravidu0510/Ravidu0510/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 > ⚠️ The snake animation requires a one-time GitHub Actions setup — see the note at the bottom of this file.
@@ -107,8 +107,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-ONE&theme=radical&hide_border=true)](https://github.com/YOUR-USERNAME/REPO-ONE)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-TWO&theme=radical&hide_border=true)](https://github.com/YOUR-USERNAME/REPO-TWO)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=REPO-ONE&theme=radical&hide_border=true)](https://github.com/Ravidu0510/REPO-ONE)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=REPO-TWO&theme=radical&hide_border=true)](https://github.com/Ravidu0510/REPO-TWO)
 
 </div>
 
