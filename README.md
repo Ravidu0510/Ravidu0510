@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving gradient banner — Dracula palette -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=220&section=header&text=Hey%20There!%20I'm%20RAVIDU NIMSARA%20%F0%9F%91%8B&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%9C%A6%20Software%20Engineer%20%E2%9C%A6%20CS%20Undergrad%20%E2%9C%A6%20ML%2FAI%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=220&section=header&text=Hey%20There!%20I'm%20RAVIDU_NImsara%20%F0%9F%91%8B&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%9C%A6%20Software%20Engineer%20%E2%9C%A6%20CS%20Undergrad%20%E2%9C%A6%20ML%2FAI%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Animated typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FF79C6,BD93F9,8BE9FD,50FA7B,F1FA8C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%92%BB+Turning+coffee+%E2%98%95+into+code;%F0%9F%A7%A0+Learning+ML%2FAI+one+model+at+a+time;%F0%9F%9A%80+Building+cool+stuff+on+the+web" alt="Typing SVG" />
@@ -164,7 +164,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:bd93f9,100:282a36&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:bd93f9,100:282a36&height=120&section=footer"/><br>
 <sub>💜 Thanks for visiting — from <a href="https://github.com/Ravidu0510">Ravidu0510</a></sub>
 </div>
 
