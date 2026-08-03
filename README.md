@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Web+Developer+%7C+Software+Engineer;Computer+Science+Undergraduate;ML%2FAI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ravidu0510+%F0%9F%91%8B;Web+Developer+%7C+Software+Enginear;Computer+Science+Undergraduate;ML%2FAI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 <!-- Profile views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravidu0510&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
