@@ -134,7 +134,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=Salary_Prediction_App&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6)](https://github.com/Ravidu0510/Salary_Prediction_App)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=Simple_Calculator&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6)](https://github.com/Ravidu0510/Simple_Calculator)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=Expense-Tracker&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6)](https://github.com/Ravidu0510/Expense-Tracker)
 
 </div>
