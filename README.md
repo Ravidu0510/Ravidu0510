@@ -138,7 +138,7 @@
 <hr>
 
 <div align="center">
-<sub>⭐️ From <a href="https://github.com/Ravidu0510">YOUR-USERNAME</a> — thanks for stopping by!</sub>
+<sub>⭐️ From <a href="https://github.com/Ravidu0510">Ravidu0510</a> — thanks for stopping by!</sub>
 </div>
 
 <!--
