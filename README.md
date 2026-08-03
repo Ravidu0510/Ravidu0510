@@ -168,40 +168,4 @@ me.say_hi()
 <sub>💜 Thanks for visiting — from <a href="https://github.com/Ravidu0510">Ravidu0510</a></sub>
 </div>
 
-<!--
-SETUP NOTES (delete this comment block once done):
 
-1. Find & replace every "YOUR-USERNAME" with your actual GitHub username (appears ~14 times).
-2. Replace "YOUR_NAME" (banner + typing intro + about-me code block) with your real name.
-3. Replace "your-email@example.com", "Your City, Country", social links, and
-   "REPO-ONE" / "REPO-TWO" with your real info.
-4. This file must live in a repo with the EXACT same name as your username
-   (e.g. github.com/YOUR-USERNAME/YOUR-USERNAME) and be public.
-5. For the snake animation, add .github/workflows/snake.yml in that same repo:
-
-   name: generate animation
-   on:
-     schedule:
-       - cron: "0 */12 * * *"
-     workflow_dispatch:
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v4
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: dist/github-contribution-grid-snake-dark.svg?palette=dracula
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-6. All stats/trophy/streak/quote images are generated live by public services —
-   no extra setup needed beyond putting your username in the URL.
--->
