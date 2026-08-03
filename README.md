@@ -18,7 +18,7 @@
 - 🧠 Currently learning **Machine Learning & AI**
 - 🌱 Always exploring new technologies and frameworks
 - 💬 Ask me about JavaScript, Python, React, or anything web-related
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ravidunimsara@gmail.com**
 - ⚡ Fun fact: I debug my code by talking to my rubber duck 🦆
 
 <br>
@@ -107,8 +107,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=REPO-ONE&theme=radical&hide_border=true)](https://github.com/Ravidu0510/REPO-ONE)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=REPO-TWO&theme=radical&hide_border=true)](https://github.com/Ravidu0510/REPO-TWO)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=Salary_Prediction_App&theme=radical&hide_border=true)](https://github.com/Ravidu0510/Salary_Prediction_App)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ravidu0510&repo=Expense-Tracker&theme=radical&hide_border=true)](https://github.com/Ravidu0510/Expense-Tracker)
 
 </div>
 
@@ -138,7 +138,7 @@
 <hr>
 
 <div align="center">
-<sub>⭐️ From <a href="https://github.com/YOUR-USERNAME">YOUR-USERNAME</a> — thanks for stopping by!</sub>
+<sub>⭐️ From <a href="https://github.com/Ravidu0510">YOUR-USERNAME</a> — thanks for stopping by!</sub>
 </div>
 
 <!--
