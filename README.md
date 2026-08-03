@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving gradient banner — Dracula palette -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=220&section=header&text=Hey%20There!%20I'm%20YOUR_NAME%20%F0%9F%91%8B&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%9C%A6%20Software%20Engineer%20%E2%9C%A6%20CS%20Undergrad%20%E2%9C%A6%20ML%2FAI%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=220&section=header&text=Hey%20There!%20I'm%20RAVIDU NIMSARA%20%F0%9F%91%8B&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%9C%A6%20Software%20Engineer%20%E2%9C%A6%20CS%20Undergrad%20%E2%9C%A6%20ML%2FAI%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Animated typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FF79C6,BD93F9,8BE9FD,50FA7B,F1FA8C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%92%BB+Turning+coffee+%E2%98%95+into+code;%F0%9F%A7%A0+Learning+ML%2FAI+one+model+at+a+time;%F0%9F%9A%80+Building+cool+stuff+on+the+web" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 ```dracula
 class Developer:
     def __init__(self):
-        self.name        = "YOUR_NAME"
+        self.name        = "RAVIDU_NIMSARA"
         self.role        = ["Web Developer 🌐", "Software Engineer 💻", "CS Undergrad 🎓", "ML/AI Learner 🤖"]
         self.location    = "🌍 Your City, Country"
         self.currently   = "Learning Machine Learning & building side projects 🚀"
@@ -148,7 +148,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-282a36?style=for-the-badge&logo=twitter&logoColor=8be9fd)](https://twitter.com/YOUR-TWITTER)
 [![Instagram](https://img.shields.io/badge/Instagram-282a36?style=for-the-badge&logo=instagram&logoColor=ff79c6)](https://instagram.com/YOUR-INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=ff5555)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=ff5555)](mailto:ravidunimsara0510@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-282a36?style=for-the-badge&logo=vercel&logoColor=f8f8f2)](https://your-portfolio.com)
 
 </div>
