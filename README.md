@@ -25,7 +25,7 @@ class Developer:
     def __init__(self):
         self.name        = "RAVIDU_NIMSARA"
         self.role        = ["Web Developer 🌐", "Software Engineer 💻", "CS Undergrad 🎓", "ML/AI Learner 🤖"]
-        self.location    = "🌍 Your City, Country"
+        self.location    = "🌍 Dehiowita, Sri Lanka"
         self.currently   = "Learning Machine Learning & building side projects 🚀"
         self.fun_fact    = "I debug by talking to my rubber duck 🦆"
         self.reach_me_at = "ravidunimsara0510@gmail.com 📫"
