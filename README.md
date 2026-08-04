@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FF79C6,BD93F9,8BE9FD,50FA7B,F1FA8C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%92%BB+Turning+coffee+%E2%98%95+into+code;%F0%9F%A7%A0+Learning+ML%2FAI+one+model+at+a+time;%F0%9F%9A%80+Building+cool+stuff+on+the+web" alt="Typing SVG" />
 
 
-<br>
-<br>
+<br><br>
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravidu0510&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS&labelColor=282a36)
 ![Followers](https://img.shields.io/github/followers/Ravidu0510?label=FOLLOWERS&style=for-the-badge&color=ff79c6&labelColor=282a36)
 ![Stars](https://img.shields.io/github/stars/Ravidu0510?label=STARS&style=for-the-badge&color=50fa7b&labelColor=282a36)
